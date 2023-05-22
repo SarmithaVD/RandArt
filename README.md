@@ -12,7 +12,7 @@ Upon running the RandArt application, a window will appear with the following op
     The application will randomly select an image from the available SVG image repository and display it on the canvas. Each image is draggable and selectable.
 
     *Group Images: 
-    Select multiple images using Ctrl key and click this button to group selected images together. 
+    Select multiple images using 'Ctrl' key and click this button to group selected images together. 
     Once grouped, you can move the entire group by dragging any of the images within the group. Grouped images can be selected and manipulated as a single entity.
 
     *Canvas: 
